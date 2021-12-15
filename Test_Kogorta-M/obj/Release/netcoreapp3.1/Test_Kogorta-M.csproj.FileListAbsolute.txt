@@ -1,0 +1,14 @@
+C:\Users\Сахар\source\repos\Test_Kogorta-M\bin\Release\netcoreapp3.1\Test_Kogorta-M.exe
+C:\Users\Сахар\source\repos\Test_Kogorta-M\bin\Release\netcoreapp3.1\Test_Kogorta-M.deps.json
+C:\Users\Сахар\source\repos\Test_Kogorta-M\bin\Release\netcoreapp3.1\Test_Kogorta-M.runtimeconfig.json
+C:\Users\Сахар\source\repos\Test_Kogorta-M\bin\Release\netcoreapp3.1\Test_Kogorta-M.runtimeconfig.dev.json
+C:\Users\Сахар\source\repos\Test_Kogorta-M\bin\Release\netcoreapp3.1\Test_Kogorta-M.dll
+C:\Users\Сахар\source\repos\Test_Kogorta-M\bin\Release\netcoreapp3.1\Test_Kogorta-M.pdb
+C:\Users\Сахар\source\repos\Test_Kogorta-M\obj\Release\netcoreapp3.1\Test_Kogorta-M.csproj.AssemblyReference.cache
+C:\Users\Сахар\source\repos\Test_Kogorta-M\obj\Release\netcoreapp3.1\Test_Kogorta-M.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сахар\source\repos\Test_Kogorta-M\obj\Release\netcoreapp3.1\Test_Kogorta-M.AssemblyInfoInputs.cache
+C:\Users\Сахар\source\repos\Test_Kogorta-M\obj\Release\netcoreapp3.1\Test_Kogorta-M.AssemblyInfo.cs
+C:\Users\Сахар\source\repos\Test_Kogorta-M\obj\Release\netcoreapp3.1\Test_Kogorta-M.csproj.CoreCompileInputs.cache
+C:\Users\Сахар\source\repos\Test_Kogorta-M\obj\Release\netcoreapp3.1\Test_Kogorta-M.dll
+C:\Users\Сахар\source\repos\Test_Kogorta-M\obj\Release\netcoreapp3.1\Test_Kogorta-M.pdb
+C:\Users\Сахар\source\repos\Test_Kogorta-M\obj\Release\netcoreapp3.1\Test_Kogorta-M.genruntimeconfig.cache
